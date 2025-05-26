@@ -15,7 +15,7 @@ Bu proje, psikolojik bir deney sistemini web üzerinden sunmayı amaçlar. Kulla
 ## 🖼 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](./screenshots/home.png)
+![Ana Sayfa](./screenshots/homepage.png)
 
 ### Test Ekranı
 ![Test](./screenshots/test.png)
