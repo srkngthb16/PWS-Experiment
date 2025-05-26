@@ -3,8 +3,7 @@ https://srkngthb16.github.io/PWS/
 
 # PWS Experiment
 
-Bu proje, psikolojik bir deney sistemini web üzerinden sunmayı amaçlar. Kullanıcılar belirli testlere katılarak veri üretir ve sistem bu verileri işler.
-
+Bu proje, github pws sitemini denek amacıyla yapılmıştır.
 ## 🔍 Özellikler
 
 - Kullanıcı dostu arayüz
